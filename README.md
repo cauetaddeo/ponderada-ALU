@@ -1,4 +1,4 @@
-# pondera-ALU
+# ponderada-ALU
 
 
 
