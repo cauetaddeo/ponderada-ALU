@@ -104,3 +104,7 @@ O projeto foi construido de forma incremental, partindo dos componentes mais sim
 
 # Vídeo explicando:
 
+[Vídeo Pondera - ALU 8 bits](https://youtu.be/0URJs0TJyIU)
+
+
+
